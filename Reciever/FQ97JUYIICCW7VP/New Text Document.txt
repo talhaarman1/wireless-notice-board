@@ -1,0 +1,6 @@
+gnd - gnd
+pin - 11
+pin - empty
+vcc - 5 
+
+LCD..

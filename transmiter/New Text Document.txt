@@ -1,0 +1,3 @@
+gnd - gnd
+vcc - 5v
+data - 12

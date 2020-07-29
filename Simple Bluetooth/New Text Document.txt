@@ -1,0 +1,6 @@
+vcc - 5v
+gnd -  gnd
+tx - rx
+rx - tx
+
+LCD ...
